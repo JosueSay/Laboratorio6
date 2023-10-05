@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "My Application"
+rootProject.name = "LAB6_API"
 include(":app")
  

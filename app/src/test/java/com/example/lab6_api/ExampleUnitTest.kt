@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.lab6_api
 
 import org.junit.Test
 
